@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LatihanFrag</string>
+    <string name="tab_text_1">TAB 1</string>
+    <string name="tab_text_2">TAB 2</string>
+</resources>
